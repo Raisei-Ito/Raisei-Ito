@@ -14,25 +14,6 @@
 <br>
 
 
-## 🛠️ 技術スタック
-
-<div align="center">
-
-### フロントエンド
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,html,css&theme=dark" />
-
-### バックエンド
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,py,django,fastapi&theme=dark" />
-
-### データベース・クラウド
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,aws,gcp&theme=dark" />
-
-### ツール・その他
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,vscode&theme=dark" />
-
-</div>
-
----
 
 ## 📊 GitHub統計
 
