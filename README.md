@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=こんにちは！+伊藤来晟です+%F0%9F%91%8B;CS専攻の修士1年です+%F0%9F%9A%80;趣味でWebアプリケーションを作成しています。+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=CS専攻修士1年の伊藤来晟です+%F0%9F%91%8B;趣味でWebアプリケーションを作成しています。+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
