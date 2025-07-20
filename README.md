@@ -17,16 +17,39 @@
 
 ## 🚀 自己紹介
 
-```typescript
-const raiseiIto = {
-    name: "伊藤 雷晟",
-    role: "フルスタック開発者",
-    location: "日本 🇯🇵",
-    passions: ["Web開発", "クリーンコード", "イノベーション"],
-    currentFocus: "スケーラブルなWebアプリケーションの構築",
-    funFact: "コーヒーをコードに変換するのが得意です ☕ → 💻"
-};
-```
+<div align="center">
+  <table border="0" cellpadding="10">
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/🎓_学歴-名古屋工業大学-FF6B35?style=for-the-badge&logoColor=white" />
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/📚_専攻-修士1年-4A90E2?style=for-the-badge&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/💻_役割-フルスタック開発者-00D4AA?style=for-the-badge&logoColor=white" />
+      </td>
+      <td align="center" width="200">
+        <img src="https://img.shields.io/badge/📍_場所-日本_🇯🇵-E74C3C?style=for-the-badge&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  
+> **🌟 情熱を注いでいること**  
+> Web開発 • クリーンコード • イノベーション
+  
+> **🎯 現在の目標**  
+> スケーラブルなWebアプリケーションの構築
+  
+> **☕ 豆知識**  
+> コーヒーをコードに変換するのが得意です
+  
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raisei-Ito&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
