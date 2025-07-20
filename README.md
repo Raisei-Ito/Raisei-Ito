@@ -18,12 +18,6 @@
 ## 🚀 自己紹介
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=こんにちは！&height=60&fontSize=40&desc=名古屋工業大学%20修士1年%20|%20フルスタック開発者&descAlignY=75&descAlign=50" />
-</div>
-
-<br>
-
-<div align="center">
   
 **🎓 名古屋工業大学 修士1年** | **💻 フルスタック開発者** | **🏠 日本**
 
@@ -34,13 +28,6 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raisei-Ito&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  
-**🌟 情熱を注いでいること:** Web開発・クリーンコード・イノベーション  
-**🎯 現在の目標:** スケーラブルなWebアプリケーションの構築  
-**☕ 豆知識:** コーヒーをコードに変換するのが得意です
-
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raisei-Ito&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
