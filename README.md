@@ -68,17 +68,6 @@
 
 ---
 
-## 🌟 現在の活動
-
-- 🔭 現在 **フルスタックWebアプリケーション** の開発に取り組んでいます
-- 🌱 **高度なクラウドアーキテクチャ** と **マイクロサービス** を学習中です
-- 💬 **React**、**Python**、**Django**、**TypeScript** について何でもお聞きください
-- 📫 連絡先: **[あなたのメールアドレス]**
-- ⚡ 豆知識: **複雑な問題をエレガントなソリューションで解決するのが好きです**
-
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
