@@ -17,12 +17,6 @@
 ## 🚀 自己紹介
 
 <div align="center">
-  
-**🎓 名古屋工業大学 修士1年** | **💻 フルスタック開発者** | **🏠 日本**
-
-</div>
-
-<div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raisei-Ito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raisei-Ito&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </div>
