@@ -51,12 +51,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shota-nukumizu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<h1 align="left">Social Media</h1>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-</div>
