@@ -14,20 +14,6 @@
 <br>
 
 
-## 🚀 自己紹介
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raisei-Ito&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raisei-Ito&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-</div>
-
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raisei-Ito&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🛠️ 技術スタック
 
 <div align="center">
