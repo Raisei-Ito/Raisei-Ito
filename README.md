@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=こんにちは！+Raisei-Itoです+%F0%9F%91%8B;フルスタック開発者+%F0%9F%9A%80;素晴らしいWebアプリケーションを作成中+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raisei-Ito&style=flat-square&color=blue" alt="プロフィール閲覧数" />
-  <img src="https://img.shields.io/github/followers/Raisei-Ito?label=フォロワー&style=social" alt="GitHubフォロワー" />
-  <img src="https://img.shields.io/github/stars/Raisei-Ito?label=スター&style=social" alt="GitHubスター" />
-</div>
 
 ---
 
