@@ -1,14 +1,3 @@
-<!-- <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,10:020024,30:0f3460,75:4f81c7,100:00d4ff&height=200&section=header&text=
-  &fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</div> -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F81C7&center=true&vCenter=true&width=800&lines=CS専攻の修士1年です。;Web開発が趣味のエンジニアです。;" alt="Typing SVG" />
-</div>
-
-<br>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineer-blue?style=for-the-badge&logo=server&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Master%20Student-green?style=for-the-badge&logo=academic&logoColor=white" />
