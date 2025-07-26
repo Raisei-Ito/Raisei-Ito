@@ -26,13 +26,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raisei-Ito&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
----
-
-## 🏆 GitHubトロフィー
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raisei-Ito&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHubトロフィー" />
-</div>
 
 ---
 
