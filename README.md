@@ -4,7 +4,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F81C7&center=true&vCenter=true&width=800&lines=CS専攻修士1年の伊藤来晟です。;Web開発が趣味のエンジニアです。;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=4F81C7&center=true&vCenter=true&width=800&lines=CS専攻の修士1年です。;Web開発が趣味のエンジニアです。;" alt="Typing SVG" />
 </div>
 
 <br>
