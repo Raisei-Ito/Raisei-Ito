@@ -97,7 +97,7 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🌟 Portfolio Website</h3>
+        <h3 align="center">Portfolio Website</h3>
         <div align="center">
           <a href="https://github.com/Raisei-Ito/portfolio_website">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raisei-Ito&repo=portfolio_website&theme=react&hide_border=true&title_color=4F81C7&icon_color=4F81C7&text_color=9f9f9f&bg_color=0D1117" />
@@ -109,7 +109,7 @@
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">📝 BlogPress App</h3>
+        <h3 align="center">BlogPress App</h3>
         <div align="center">
           <a href="https://github.com/Raisei-Ito/blogpress-app">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raisei-Ito&repo=blogpress-app&theme=react&hide_border=true&title_color=4F81C7&icon_color=4F81C7&text_color=9f9f9f&bg_color=0D1117" />
