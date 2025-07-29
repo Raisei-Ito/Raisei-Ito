@@ -5,7 +5,7 @@
 </div>
 <br>
 
-## 🚀 技術スタック & ツール
+## 技術スタック & ツール
 
 <div align="center">
   <table>
@@ -66,7 +66,7 @@
 
 <br>
 
-## 📊 GitHub統計
+## GitHub統計
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raisei-Ito&show_icons=true&theme=react&hide_border=true&title_color=4F81C7&icon_color=4F81C7&text_color=9f9f9f&bg_color=0D1117" />
@@ -83,7 +83,7 @@
 
 <br>
 
-## 🏆 GitHub トロフィー
+## GitHub トロフィー
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Raisei-Ito&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
@@ -91,7 +91,7 @@
 
 <br>
 
-## 🎯 注目のプロジェクト
+## 注目のプロジェクト
 
 <div align="center">
   <table>
