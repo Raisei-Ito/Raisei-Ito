@@ -91,38 +91,6 @@
 
 <br>
 
-## 注目のプロジェクト
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
-        <div align="center">
-          <a href="https://github.com/Raisei-Ito/portfolio_website">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raisei-Ito&repo=portfolio_website&theme=react&hide_border=true&title_color=4F81C7&icon_color=4F81C7&text_color=9f9f9f&bg_color=0D1117" />
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">BlogPress App</h3>
-        <div align="center">
-          <a href="https://github.com/Raisei-Ito/blogpress-app">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Raisei-Ito&repo=blogpress-app&theme=react&hide_border=true&title_color=4F81C7&icon_color=4F81C7&text_color=9f9f9f&bg_color=0D1117" />
-          </a>
-        </div>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <br>
 
