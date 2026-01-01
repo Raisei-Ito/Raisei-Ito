@@ -66,35 +66,6 @@
 
 <br>
 
-## GitHub統計
-
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Raisei-Ito&show_icons=true&theme=react&hide_border=true&title_color=4F81C7&icon_color=4F81C7&text_color=9f9f9f&bg_color=0D1117" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raisei-Ito&layout=compact&theme=react&hide_border=true&title_color=4F81C7&text_color=9f9f9f&bg_color=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raisei-Ito&theme=react&hide_border=true&stroke=4F81C7&ring=4F81C7&fire=FF6B35&currStreakLabel=4F81C7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raisei-Ito&theme=react-dark&hide_border=true&area=true&color=4F81C7&point=FFFFFF" />
-</div>
-
-<br>
-
-## GitHub トロフィー
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Raisei-Ito&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
-<br>
-
-
-<br>
-
----
 
 
 <div align="center">
